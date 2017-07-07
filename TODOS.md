@@ -1,6 +1,0 @@
-- Add some content to homepage
-- Add a page for each trainee with favorite movies, music etc.
-- Add a page for each technology with some tips
-- Add basic styles (Bootstrap or custom)
-- Add everyone to CONTRIBUTORS.md
-- Move technology and trainee pages to subdirectories
