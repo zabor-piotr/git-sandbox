@@ -12,3 +12,8 @@ Building project
 ================
 
 TBD
+
+Docker setup
+============
+
+TBD
