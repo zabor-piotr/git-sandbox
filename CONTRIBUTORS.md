@@ -5,3 +5,4 @@ CONTRIBUTORS
  - Mateusz Rosiek (mrosiu)
  - Agnieszka Kocztorz
  - Michał Tomsia
+- Zabor
