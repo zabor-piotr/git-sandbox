@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-This is a sandbox for workshops introducing key Git concepts.
+This is a sandbox for workshops introducing key Git concepts and tools.
 
 How to install
 ==============
@@ -15,5 +15,10 @@ TBD
 
 Docker setup
 ============
+
+TBD
+
+Loading fixtures
+================
 
 TBD
